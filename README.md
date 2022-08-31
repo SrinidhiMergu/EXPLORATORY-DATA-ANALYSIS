@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis
+# Exploratory Data Analysis on Student Performance Dataset
 
 Performed exploratory data analysis to understand how the student's performance (test scores) is affected by other variables such as
 - Gender
